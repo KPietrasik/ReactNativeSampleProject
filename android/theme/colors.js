@@ -1,0 +1,9 @@
+export const violet = '#CF5FD1';
+export const blue = '#5F8DD1';
+export const green = '#61D15F';
+export const background = '#F9F9FB';
+export const textDark = '#313234';
+export const primary = '#F5CA48';
+export const secondary = '#F26C68';
+export const textLight = '#CDCDCD';
+export const price = '#E4723C';
